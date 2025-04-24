@@ -1,12 +1,14 @@
-## Hi there 👋
+![2K9XTEAM](https://i.ibb.co/Psc38SR7/2-K9-XTEAM-1.png)
+## Welcome to 2K9XTEAM! 🌐
 
-<!--
+We’re a team of web developers helping you automate your website tasks.
 
-**Here are some ideas to get you started:**
+**Services**
+- Website design with automation
+- Website rental with built-in tools
+- Website sales for easy management
+- Automation solutions (updates, SEO, and more)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Links**
+- [Our Website](https://2k9xteam.shop)
+- [Discord](https://2k9xteam.shop/discord)
